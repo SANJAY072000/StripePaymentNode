@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "App to sell ebook",
   "main": "app.js",
+  "engines":{
+    "node":"10.15.2"
+  },
   "scripts": {
     "start": "node app.js"
   },
